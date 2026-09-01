@@ -60,3 +60,9 @@ In **Arduino IDE**, select: **Tools > Partition Scheme > "Default 4MB with ffat 
 
 ## 📄 License
 Distributed under the **MIT License**. Created by **Muhammad Fikri**.
+
+---
+
+<p align="center">
+  Dibuat dengan ❤️ oleh <b>Muhammad Fikri Dev</b>
+</p>
